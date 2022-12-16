@@ -1,4 +1,4 @@
-    #include "s21_grep.h"
+#include "s21_grep.h"
 
 int main(int argc, char *argv[]) {
     options flags = GrepParseArgs(argc, argv);
