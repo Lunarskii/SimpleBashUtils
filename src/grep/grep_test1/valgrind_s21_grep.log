@@ -1,0 +1,6 @@
+==60579== Memcheck, a memory error detector
+==60579== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==60579== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==60579== Command: ./s21_grep for s21_grep.c -hlv
+==60579== Parent PID: 24922
+==60579== 
